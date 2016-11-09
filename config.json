@@ -28,7 +28,11 @@
 						"2": "a",
 						"3": "b",
 						"8": "select",
-						"9": "start"
+						"9": "start",
+						"12": "up",
+						"13": "down",
+						"14": "left",
+						"15": "right"
 					},
 					"axes": {
 						"0": "horizontal",
